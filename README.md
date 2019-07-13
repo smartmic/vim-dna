@@ -1,0 +1,1 @@
+This repo provides a vim syntax file for model file of the [DNA](https://orbit.dtu.dk/en/publications/dna--a-thermal-energy-system-simulator(b76040a4-5a29-4b04-a898-12711391c933).html) Thermal Energy Systems Simulator. It features only a subset of available component and modeling definitions.
